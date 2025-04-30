@@ -19,7 +19,7 @@ SPDX-License-Identifier: GPL-2.0-only
 git version 2.49.0
 ```
 
-## How to use this repository
+## How to setup this repository and import patches?
 
 ```
 $ git clone git@github.com:stephane-klein/dummy-upstream-project-patches.git
